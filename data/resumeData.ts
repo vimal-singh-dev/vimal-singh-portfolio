@@ -161,7 +161,7 @@ export const INITIAL_RESUME_DATA: ResumeData = {
       details: 'Designed to help users establish daily habits, track continuous streaks, and monitor personal productivity routines.',
       tags: ['JavaScript', 'Web', 'HTML/CSS', 'Productivity'],
       modelType: 'cyber-cube',
-      githubUrl: 'https://github.com/King-H-R'
+      githubUrl: 'https://github.com/vimal-singh-dev/habit-tracker-version-2.git'
     },
     {
       id: 'ufdr-analyzer',
@@ -171,7 +171,7 @@ export const INITIAL_RESUME_DATA: ResumeData = {
       details: 'A forensic utility engineered to parse and extract valuable investigative insights and data reports from UFDR (Universal Forensic Extraction Device Report) files.',
       tags: ['Python', 'Forensics', 'Data Extraction', 'Analysis'],
       modelType: 'quantum-core',
-      githubUrl: 'https://github.com/King-H-R'
+      githubUrl: 'https://github.com/vimal-singh-dev/ufdr_analyzer.git'
     },
     {
       id: 'greenwipe',
@@ -181,7 +181,7 @@ export const INITIAL_RESUME_DATA: ResumeData = {
       details: 'A security-focused utility designed for secure and irreversible data wiping and disk sanitization.',
       tags: ['Security', 'Python / Scripting', 'Linux', 'Data Sanitization'],
       modelType: 'neural-sphere',
-      githubUrl: 'https://github.com/King-H-R'
+      githubUrl: 'https://github.com/vimal-singh-dev/GreenWipe--Data-Wiping-.git'
     }
   ],
   certifications: [
