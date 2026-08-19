@@ -16,9 +16,9 @@ export const INITIAL_RESUME_DATA: ResumeData = {
     email: 'cvimal144@gmail.com',
     phone: '9569944197',
     location: 'Kanpur, India',
-    githubUrl: 'https://github.com/King-H-R',
+    githubUrl: 'https://github.com/vimal-singh-dev',
     linkedinUrl: 'https://linkedin.com/in/vimal-singh-it',
-    portfolioUrl: 'https://github.com/King-H-R',
+    portfolioUrl: 'https://github.com/vimal-singh-dev',
     status: 'Open to Internship Opportunities',
     strengths: [
       'Quick learner with strong ownership mindset',
